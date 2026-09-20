@@ -1,0 +1,10 @@
+{
+  "name":"EKTECH APPLE STORE",
+  "short_name":"EKTECH",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f3f5f7",
+  "theme_color":"#07172b",
+  "lang":"tr",
+  "description":"EKTECH APPLE STORE telefon ticareti yönetim uygulaması"
+}
